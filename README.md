@@ -1,4 +1,4 @@
-# TP_5 - Polymorphism, Abstract Classes, and Generics
+# TP_6 - Polymorphism, Abstract Classes, and Generics
 
 This repository contains 3 Java exercises focusing on polymorphism, abstract classes, dynamic binding, and Java generics.
 
@@ -487,3 +487,4 @@ Each exercise directory contains:
 3. **Abstract classes** enforce implementation contracts
 4. **Generics** provide type-safe, reusable algorithms
 5. Combining these concepts creates powerful, maintainable systems
+
